@@ -1,1 +1,3 @@
 [Program1_arraylist and linkedlist output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1.png)
+
+[Program1_arraylist output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_b1.png)
