@@ -11,3 +11,5 @@ Program1_b4 arraylist output link=>[Program1_b4 arraylist output link](https://g
 Program1_b5 arraylist output link=>[Program1_b5 arraylist output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_b5.png)
 
 Program2_a string operations output link=>[Program2_a string operations output link](https://github.com/poojaK853/JavaPrograms/blob/main/p2_a.png)
+
+Program2_b sStringBuffer and StringBuilder output link=>[Program2_b StringBuffer and StringBuilder output link](https://github.com/poojaK853/JavaPrograms/blob/main/p2_b.png)
