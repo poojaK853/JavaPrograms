@@ -25,3 +25,5 @@ Program2_a string operations output link=>[Program2_a string operations output l
 Program2_b sStringBuffer and StringBuilder output link=>[Program2_b StringBuffer and StringBuilder output link](https://github.com/poojaK853/JavaPrograms/blob/main/p2_b.png)
 
 Program3_a string operations output link=>[Program3_a string operations output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_a.png)
+
+Program3_b1 string output link=>[Program3_b1 string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_b1.png)
