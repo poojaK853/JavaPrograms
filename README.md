@@ -5,3 +5,5 @@ Program1_b1 arraylist output link=>[Program1_b1 arraylist output link](https://g
 Program1_b2 arraylist output link=>[Program1_b2 arraylist output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_b2.png)
 
 Program1_b3 arraylist output link=>[Program1_b3 arraylist output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_b3.png)
+
+Program1_b4 arraylist output link=>[Program1_b4 arraylist output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_b4.png)
