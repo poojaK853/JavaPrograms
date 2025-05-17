@@ -30,3 +30,6 @@ Program3_b1 string output link=>[Program3_b1 string output link](https://github.
 
 Program3_b2 string output link=>[Program3_b2 string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_b2.png)
 
+Program3_b3 string output link=>[Program3_b3 string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_b3.png)
+
+
