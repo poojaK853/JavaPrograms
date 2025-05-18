@@ -62,6 +62,8 @@ Program6_a servlet program to find the factorial of a number output link=>[Progr
 
 Program6_b servlet program to create a cookie output link=>[Program6_b servlet program to create a cookie output link](https://github.com/poojaK853/JavaPrograms/blob/main/p6_b.jpg)
 
+Program6_c servlet program to program to check the given number is prime number output link=>[Program6_c servlet program program to check the given number is prime number output link](https://github.com/poojaK853/JavaPrograms/blob/main/p6_c.jpg)
+
 
 
 
