@@ -68,7 +68,7 @@ Program7_a Session Management using JSP program output link=>[Program7_a Session
 
 Program7_b Cookie Management program using JSP program output link=>[Program7_b Cookie Management program using JSP program output link](https://github.com/poojaK853/JavaPrograms/blob/main/p7_b.jpg)
 
-Program8_c JDBC project using JSP program output link=>[Program8_c JDBC project using JSP program output link](https://github.com/poojaK853/JavaPrograms/blob/main/p8_c.png)
+Program8_c JDBC project using JSP program output link.=>[Program8_c JDBC project using JSP program output link](https://github.com/poojaK853/JavaPrograms/blob/main/p8_c.png)
 
 
 
