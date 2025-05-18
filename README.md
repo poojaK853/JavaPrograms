@@ -70,6 +70,9 @@ Program7_b Cookie Management program using JSP program output link=>[Program7_b 
 
 Program8_c JDBC project using JSP program output link.=>[Program8_c JDBC project using JSP program output link](https://github.com/poojaK853/JavaPrograms/blob/main/p8_c.png)
 
+Program8_d JDBC project using JDBC to update output link.=>[Program8_d JDBC project using JDBC to update output link](https://github.com/poojaK853/JavaPrograms/blob/main/p8_d.jpg)
+
+
 
 
 
