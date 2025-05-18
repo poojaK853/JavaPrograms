@@ -16,7 +16,7 @@ Program1_c2 Linkedlist output link=>[Program1_c2 Linkedlist  output link](https:
 
 Program1_c3 Linkedlist output link=>[Program1_c3 Linkedlist  output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_c3.png)
 
-Program1_c4 Linkedlist output link=>[Program1_c4 Linkedlist  output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_c4.png)
+Program1_c4 Linkedlist output link=>[Program1_c4 Linkedlist  output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_c4.jpg)
 
 Program1_c5 Linkedlist output link=>[Program1_c5 Linkedlist  output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_c5.png)
 
