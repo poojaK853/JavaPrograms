@@ -26,17 +26,17 @@ Program2_b sStringBuffer and StringBuilder output link=>[Program2_b StringBuffer
 
 Program3_a string operations output link=>[Program3_a string operations output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_a.png)
 
-Program3_b1 string output link=>[Program3_b1 string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_b1.png)
+Program3_b1 string is null or contains only whitespace output link=>[Program3_b1 string is null or contains only whitespace output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_b1.png)
 
-Program3_b2 string output link=>[Program3_b2 string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_b2.png)
+Program3_b2 string Count occurrences output link=>[Program3_b2 string Count occurrences output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_b2.png)
 
-Program3_b3 string output link=>[Program3_b3 string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_b3.png)
+Program3_b3 Reverse a string output link=>[Program3_b3 : Reverse a string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_b3.png)
 
-Program3_b4 string output link=>[Program3_b4 string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_b4.png)
+Program3_b4 string Check palindrome output link=>[Program3_b4 string Check palindrome output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_b4.png)
 
-Program3_b5 string output link=>[Program3_b5 string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_b5.png)
+Program3_b5 string  Remove whitespace output link=>[Program3_b5 string Remove whitespace output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_b5.png)
 
-Program3_c6 string output link=>[Program3_c6 string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_c6.png)
+Program3_c6 string Capitalize words output link=>[Program3_c6 string Capitalize words output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_c6.png)
 
 
 
