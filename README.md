@@ -54,6 +54,8 @@ Program5_a Swing Program output link=>[Program5_a Swing Program output link](htt
 
 Program5_b Swing Program output link=>[Program5_b Swing Program output link](https://github.com/poojaK853/JavaPrograms/blob/main/p5_b.png)
 
+Program5_c Swing Program output link=>[Program5_c Swing Program output link](https://github.com/poojaK853/JavaPrograms/blob/main/p5_c.png)
+
 
 
 
