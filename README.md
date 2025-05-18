@@ -60,7 +60,7 @@ Program5_d Swing Program output link=>[Program5_d Swing Program output link](htt
 
 Program6_a servlet program to find the factorial of a number output link=>[Program6_a servlet program to find the factorial of a number output link](https://github.com/poojaK853/JavaPrograms/blob/main/p6_a.jpg)
 
-Program6_b servlet program to find the factorial of a number output link=>[Program6_b servlet program to find the factorial of a number output link](https://github.com/poojaK853/JavaPrograms/blob/main/p6_b.jpg)
+Program6_b servlet program to create a cookie output link=>[Program6_b servlet program to create a cookie output link](https://github.com/poojaK853/JavaPrograms/blob/main/p6_b.jpg)
 
 
 
