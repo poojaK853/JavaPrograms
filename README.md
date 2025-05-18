@@ -38,6 +38,8 @@ Program3_b5 string  Remove whitespace output link=>[Program3_b5 string Remove wh
 
 Program3_c6 string Capitalize words output link=>[Program3_c6 string Capitalize words output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_c6.png)
 
+Program3_c7 Truncate string output link=>[Program3_c7 Truncate string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_c7.png)
+
 
 
 
