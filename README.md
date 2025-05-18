@@ -42,6 +42,8 @@ Program3_c7 Truncate string output link=>[Program3_c7 Truncate string output lin
 
 Program3_c8  Check if numeric/string output link=>[Program3_c8 Check if numeric/string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_c8.png)
 
+Program3_c9 random string output link=>[Program3_c9 random string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_c9.png)
+
 
 
 
