@@ -44,6 +44,9 @@ Program3_c8  Check if numeric/string output link=>[Program3_c8 Check if numeric/
 
 Program3_c9 random string output link=>[Program3_c9 random string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_c9.png)
 
+Program3_c10  Count words in a string output link=>[Program3_c10  Count words in a string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_c10.png)
+
+
 
 
 
