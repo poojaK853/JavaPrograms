@@ -50,6 +50,8 @@ Program4_a Swing Program using Jframe and Jlabel output link=>[Program4_a Swing 
 
 Program4_b Swing Program with addActionListener( ) output link=>[Program4_b Swing Program with addActionListener( ) output link](https://github.com/poojaK853/JavaPrograms/blob/main/p4_b.png)
 
+Program4_c Swing Program with addActionListener( ) output link=>[Program4_c Swing Program with addActionListener( ) output link](https://github.com/poojaK853/JavaPrograms/blob/main/p4_c.jpg)
+
 Program5_a Swing Program output link=>[Program5_a Swing Program output link](https://github.com/poojaK853/JavaPrograms/blob/main/p5_a.png)
 
 Program5_b Swing Program output link=>[Program5_b Swing Program output link](https://github.com/poojaK853/JavaPrograms/blob/main/p5_b.png)
