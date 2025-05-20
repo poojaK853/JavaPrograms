@@ -1,20 +1,39 @@
-/*Write a Java Program for Eliminating all whitespace characters from a string using user defined
-function removeWhitespace()*/
+/*Write a Java Program for Capitalizing the first letter of each word. using user defined function
+capitalizeWords()*/
 
-// Package declaration (depends on your project structure)
-package program1;
+import java.util.Scanner;
 
-public class program3_b5 {
+public class CapitalizeEachWord {
 
-    // Main method: Entry point of the program
-    public static void main(String[] args) {
-        // Call the removeWhitespace method with a sample string and print the result
-        System.out.println("Without whitespace: " + removeWhitespace(" H e l l o W o r l d "));
+    // User-defined function to capitalize each word
+    public static String capitalizeWords(String str) {
+        String[] words = str.split(" ");
+        StringBuilder capitalized = new StringBuilder();
+
+        for (String word : words) {
+            if (word.length() > 0) {
+                // Capitalize first letter and append rest of the word
+                capitalized.append(Character.toUpperCase(word.charAt(0)))
+                           .append(word.substring(1).toLowerCase())
+                           .append(" ");
+            }
+        }
+
+        // Remove trailing space
+        return capitalized.toString().trim();
     }
 
-    // User-defined method to remove all whitespace characters from a string
-    private static String removeWhitespace(String str) {
-        // Use regular expression \s to match all types of whitespace (space, tab, newline, etc.)
-        return str.replaceAll("\\s", "");
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        // Input from the user
+        System.out.println("Enter a sentence:");
+        String input = scanner.nextLine();
+
+        // Call the function and display result
+        String result = capitalizeWords(input);
+        System.out.println("Capitalized Sentence: " + result);
+
+        scanner.close();
     }
 }
