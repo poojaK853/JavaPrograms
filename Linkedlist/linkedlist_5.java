@@ -2,23 +2,34 @@
 Collections.swap(l_list, 0, 2))*/
 
 package program1;
-import java.util.*;
-public class program1_c5 {
-	public static void main(String[] args) {
-			// TODO Auto-generated method stub
-			LinkedList<String> ls = new LinkedList<>();
-			ls.add("Orange");
-			ls.add("geen");
-			ls.add("pink");
-			ls.add("red");
-			ls.add("Blue");
-			System.out.println("Before swapping");
-			System.out.println(ls);
-			Collections.swap(ls, 2, 3);
-			System.out.println("After swapping");
-			System.out.println(ls);
-		}
 
-	}
+import java.util.*;
+
+public class program1_c5 {
+    public static void main(String[] args) {
+        // Create a LinkedList of Strings
+        LinkedList<String> ls = new LinkedList<>();
+
+        // Add elements to the LinkedList
+        ls.add("Orange");
+        ls.add("geen");  // Possible typo, probably meant "green"
+        ls.add("pink");
+        ls.add("red");
+        ls.add("Blue");
+
+        // Print the list before swapping
+        System.out.println("Before swapping");
+        System.out.println(ls);
+
+        // Swap elements at index 2 and 3 using Collections.swap()
+        // This will swap "pink" (index 2) with "red" (index 3)
+        Collections.swap(ls, 2, 3);
+
+        // Print the list after swapping to show the changes
+        System.out.println("After swapping");
+        System.out.println(ls);
+    }
+}
+
 
 
