@@ -1,20 +1,7 @@
 /*Build a servlet program to find the factorial of a number using HTML with step by step
 procedure.
 
-Step by step implementation procedure:
- Create a new Dynamic Web Project:
-o Open Eclipse
-o File → New → Dynamic Web Project
-o Name it "FactorialCalculatorDemo"
-o Choose Apache Tomcat as the target runtime
-o Click Finish
-
- Create the Servlet:
-o Right-click on src folder
-o New → Class
-o Name it "FactorialServlet"
-o Copy the Java code from the second artifact above
-o Save the file*/
+*/
 
 package program6a;
 
