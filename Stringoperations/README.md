@@ -18,4 +18,4 @@ string program_8 output link=>[string program_8 output link](https://github.com/
 
 string program_9 output link=>[string program_9 output link](https://github.com/poojaK853/JavaPrograms/blob/main/Stringoperations/p3_b4.png)
 
-string program_10 output link=>[string program_10 output link](https://github.com/poojaK853/JavaPrograms/blob/main/Stringoperations/p3_b5(3).png)
+string program_10 output link=>[string program_10 output link](https://github.com/poojaK853/JavaPrograms/blob/main/Stringoperations/p3_b5.png)
