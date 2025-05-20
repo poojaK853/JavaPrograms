@@ -1,4 +1,4 @@
-demoprogram output link=>[demoprogram output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1.png)
+demoprogram output link=>[demoprogram output link](https://github.com/poojaK853/JavaPrograms/blob/main/Arraylist/demop_1.png)
 
 arraylist_1 output link=>[arraylist_1 output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_b1.png)
 
