@@ -46,7 +46,7 @@ Program3_c9 random string output link=>[Program3_c9 random string output link](h
 
 Program3_c10  Count words in a string output link=>[Program3_c10  Count words in a string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_c10.png)
 
-Program4_a Swing Program using Jframe and Jlabel output link=>[Program4_a Swing Program using Jframe and Jlabel output link](https://github.com/poojaK853/JavaPrograms/blob/main/p4_a..png)
+Program4_a Swing Program using Jframe and Jlabel output link=>[Program4_a Swing Program using Jframe and Jlabel output link](https://github.com/poojaK853/JavaPrograms/blob/main/p4_a.png)
 
 Program4_b Swing Program with addActionListener( ) output link=>[Program4_b Swing Program with addActionListener( ) output link](https://github.com/poojaK853/JavaPrograms/blob/main/p4_b.png)
 
