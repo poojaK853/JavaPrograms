@@ -101,11 +101,7 @@ public class p6a extends HttpServlet {
 }
 
 
-/*3. Create the HTML file:
 
-o Right-click on WebContent folder
-o New → HTML File
-o Name it "index.html"*/
 
 <!DOCTYPE html>
 <html>
