@@ -68,7 +68,7 @@ Program6_c servlet program to program to check the given number is prime number 
 
 Program7_a Session Management using JSP program output link=>[Program7_a Session Management using JSP program output link](https://github.com/poojaK853/JavaPrograms/blob/main/JSP%20programs/JSPprogram_1/p7_a..jpg)
 
-Program7_b Cookie Management program using JSP program output link=>[Program7_b Cookie Management program using JSP program output link](https://github.com/poojaK853/JavaPrograms/blob/main/p7_b.jpg)
+Program7_b Cookie Management program using JSP program output link=>[Program7_b Cookie Management program using JSP program output link](https://github.com/poojaK853/JavaPrograms/blob/main/JSP%20programs/JSPprogram_2/p7_b.jpg)
 
 Program8_a JSP program output link=>[Program8_a JSP program output link](https://github.com/poojaK853/JavaPrograms/blob/main/p8_a.jpg)
 
