@@ -1,4 +1,4 @@
-dempprogram output link=>[string operations output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_a.png)
+dempprogram output link=>[string operations output link](https://github.com/poojaK853/JavaPrograms/blob/main/Stringoperations/demop_1.png)
 
 string program_1 output link=>[string program_1 output link](https://github.com/poojaK853/JavaPrograms/blob/main/Stringoperations/p3_a1.png)
 
