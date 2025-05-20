@@ -1,4 +1,4 @@
-hello program output link=>[hello program output link](https://github.com/poojaK853/JavaPrograms/blob/main/p4_a.png)
+hello program output link=>[hello program output link](https://github.com/poojaK853/JavaPrograms/blob/main/Swing%20programs/p4_a.png)
 
 button press output link=>[button press output link](https://github.com/poojaK853/JavaPrograms/blob/main/p4_b.png)
 
