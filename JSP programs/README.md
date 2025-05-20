@@ -1,8 +1,10 @@
 Step 1: Create index.jsp – Input Form Page
 This page contains a form with a text box to collect the user's name.
+
 Step 2: Create welcome.jsp – Greeting Page
 This page reads the name, stores it in the session, and displays a greeting.
 It also sets the session timeout to 1 minute.
+
 Step 3: Deploy and Test
 Run the application on a server like Apache Tomcat.
 Steps to test:
