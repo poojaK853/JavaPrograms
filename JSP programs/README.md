@@ -17,3 +17,6 @@ Refresh the page — you’ll get a message that the session has expired.
 OUTPUT LINKS:-
 
 JSP program_1 output link=>[JSP program_1 output link](https://github.com/poojaK853/JavaPrograms/blob/main/JSP%20programs/JSPprogram_1/p7_a..jpg)
+
+
+JSP program_2 output link=>[JSP program_2 output link](https://github.com/poojaK853/JavaPrograms/blob/main/JSP%20programs/JSPprogram_2/p7_b.jpg)
