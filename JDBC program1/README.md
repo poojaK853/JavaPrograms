@@ -44,6 +44,8 @@ Run the App
 
 Open browser and go to:http://localhost:8080/YourProjectName/
 
+OUTPUT LINKS:-
+
 coffee insert output link=>[coffee insert output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20program1/coffeeinsert/p8_a.png)
 
 coffeeupdate output link=>[coffeeupdate output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20program1/coffeeupdate/p8_b.png)
