@@ -1,4 +1,4 @@
-# Employee Management JSP Project
+# Employee Management JDBC program
 
 This project allows users to insert employee records into a MySQL database using JSP and JDBC, and view all employee records in a report format.
 
