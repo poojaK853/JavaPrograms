@@ -38,3 +38,18 @@ Deploy to Tomcat
 
 Copy the project folder to Tomcat/webapps/
 
+Start the Tomcat server
+
+Run the App
+
+Open browser and go to:http://localhost:8080/YourProjectName/
+
+
+OUTPUTLINKS:-
+
+reportemployee output link=>[reportemployee output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20programs_2/p9_c.png)
+
+
+
+
+
