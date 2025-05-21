@@ -139,11 +139,24 @@ This section contains additional Java Swing programs demonstrating advanced GUI 
 💡 **Note:** These programs further explore Swing components, event handling, and customization of GUI elements.
 
 
-Program6_a servlet program to find the factorial of a number output link=>[Program6_a servlet program to find the factorial of a number output link](https://github.com/poojaK853/JavaPrograms/blob/main/p6_a.jpg)
+# 📌 Program 6: Servlet Programs
 
-Program6_b servlet program to create a cookie output link=>[Program6_b servlet program to create a cookie output link](https://github.com/poojaK853/JavaPrograms/blob/main/p6_b.jpg)
+This section contains Java Servlet programs demonstrating server-side processing like factorial calculation, cookie creation, and prime number checking.
 
-Program6_c servlet program to program to check the given number is prime number output link=>[Program6_c servlet program program to check the given number is prime number output link](https://github.com/poojaK853/JavaPrograms/blob/main/p6_c.jpg)
+---
+
+## 🔹 Program Outputs
+
+| Program Description                                          | Output Link |
+|--------------------------------------------------------------|-------------|
+| ✅ Servlet Program 1: Find Factorial of a Number             | 🔗 [servlet program_1 output](https://github.com/poojaK853/JavaPrograms/blob/main/Servlet%20programs/p6_a.jpg) |
+| ✅ Servlet Program 2: Create a Cookie                         | 🔗 [servlet program_2 output](https://github.com/poojaK853/JavaPrograms/blob/main/Servlet%20programs/p6_b.jpg) |
+| ✅ Servlet Program 3: Check if a Number is Prime              | 🔗 [servlet program_3 output](https://github.com/poojaK853/JavaPrograms/blob/main/Servlet%20programs/p6_c.jpg) |
+
+---
+
+💡 **Note:** These programs illustrate core servlet functionalities such as input processing, session management, and conditional logic.
+
 
 Program7_a Session Management using JSP program output link=>[Program7_a Session Management using JSP program output link](https://github.com/poojaK853/JavaPrograms/blob/main/JSP%20programs/JSPprogram_1/p7_a..jpg)
 
