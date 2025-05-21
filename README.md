@@ -36,9 +36,26 @@ Program1_c4 Linkedlist output link=>[Program1_c4 Linkedlist  output link](https:
 
 Program1_c5 Linkedlist output link=>[Program1_c5 Linkedlist  output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_c5.png)
 
-Program2_a string operations output link=>[Program2_a string operations output link](https://github.com/poojaK853/JavaPrograms/blob/main/p2_a.png)
+# 📌 Program 2: String Operations
 
-Program2_b sStringBuffer and StringBuilder output link=>[Program2_b StringBuffer and StringBuilder output link](https://github.com/poojaK853/JavaPrograms/blob/main/p2_b.png)
+This section contains Java programs that demonstrate various **String operations**, including manipulation using **String**, **StringBuffer**, and **StringBuilder** classes.
+
+---
+
+## 🔸 String Operations
+
+🔗 **[View Output](string operations output link)**
+
+---
+
+## 🔹 StringBuffer and StringBuilder
+
+🔗 **[View Output](StringBuffer and StringBuilder output link)**
+
+---
+
+💡 **Note:** These programs highlight differences in mutability and performance between `String`, `StringBuffer`, and `StringBuilder` classes in Java.
+
 
 Program3_a string operations output link=>[Program3_a string operations output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_a.png)
 
