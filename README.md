@@ -1,17 +1,30 @@
-📌 Program 1: Arraylist programs
+# 📌 Program 1: ArrayList Programs
+
+This section contains multiple Java programs demonstrating the usage and functionality of `ArrayList` in Java. Each program showcases different operations and methods available with the ArrayList class.
+
+---
+
+## 🔸 Demo Program
+
+🔗 **[View Output](https://github.com/poojaK853/JavaPrograms/blob/main/Arraylist/demop_1.png)**
+
+---
+
+## 🔹 ArrayList Examples
+
+| Program Description | Output Link |
+|---------------------|-------------|
+| ✅ ArrayList Example 1 | 🔗 [arraylist_1 output](https://github.com/poojaK853/JavaPrograms/blob/main/Arraylist/p1_a1.png) |
+| ✅ ArrayList Example 2 | 🔗 [arraylist_2 output](https://github.com/poojaK853/JavaPrograms/blob/main/Arraylist/p1_a2.png) |
+| ✅ ArrayList Example 3 | 🔗 [arraylist_3 output](https://github.com/poojaK853/JavaPrograms/blob/main/Arraylist/p1_a3.png) |
+| ✅ ArrayList Example 4 | 🔗 [arraylist_4 output](https://github.com/poojaK853/JavaPrograms/blob/main/Arraylist/p1_a4.png) |
+| ✅ ArrayList Example 5 | 🔗 [arraylist_5 output](https://github.com/poojaK853/JavaPrograms/blob/main/Arraylist/p1_a5.png) |
+
+---
+
+💡 **Note:** Click on each output link to view the result of the respective program.
 
 
-Program1_arraylist and linkedlist output link=>[Program1_arraylist and linkedlist output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1.png)
-
-Program1_b1 arraylist output link=>[Program1_b1 arraylist output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_b1.png)
-
-Program1_b2 arraylist output link=>[Program1_b2 arraylist output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_b2.png)
-
-Program1_b3 arraylist output link=>[Program1_b3 arraylist output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_b3.png)
-
-Program1_b4 arraylist output link=>[Program1_b4 arraylist output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_b4.png)
-
-Program1_b5 arraylist output link=>[Program1_b5 arraylist output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_b5.png)
 
 Program1_c1 Linkedlist output link=>[Program1_c1 Linkedlist  output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_c1.png)
 
