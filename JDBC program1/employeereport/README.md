@@ -48,4 +48,4 @@ OUTPUT LINKS:-
 
 employeereport output link=>[employeereport output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20program1/employeereport/p8_c.png)
 
-updateemployee output link=>[updateemployee output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20program1/updateemployee%20program/p8_d.png)
+
