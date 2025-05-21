@@ -40,4 +40,11 @@ Copy the project folder to Tomcat/webapps/
 
 Start the Tomcat server
 
-Run the App
+Run the App:
+
+http://localhost:8080/your_project_name/
+
+
+OUTPUTLINKS:-
+
+updateemployee output link=>[updateemployee output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20program1/updateemployee%20program/p8_d.png)
