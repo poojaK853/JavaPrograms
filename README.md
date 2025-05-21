@@ -67,27 +67,38 @@ This section contains Java programs that demonstrate various **String operations
 
 
 
-Program3_a string operations output link=>[Program3_a string operations output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_a.png)
+# 📌 Program 3: Additional String Programs
 
-Program3_b1 string is null or contains only whitespace output link=>[Program3_b1 string is null or contains only whitespace output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_b1.png)
+This section showcases various Java programs focused on string manipulation using different methods and approaches including searching, modifying, comparing, and analyzing strings.
 
-Program3_b2 string Count occurrences output link=>[Program3_b2 string Count occurrences output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_b2.png)
+---
 
-Program3_b3 Reverse a string output link=>[Program3_b3 : Reverse a string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_b3.png)
+## 🔸 Demo Program
 
-Program3_b4 string Check palindrome output link=>[Program3_b4 string Check palindrome output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_b4.png)
+🔗 **[string operations output link](https://github.com/poojaK853/JavaPrograms/blob/main/Stringoperations/demop_1.png)**
 
-Program3_b5 string  Remove whitespace output link=>[Program3_b5 string Remove whitespace output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_b5.png)
+---
 
-Program3_c6 string Capitalize words output link=>[Program3_c6 string Capitalize words output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_c6.png)
+## 🔹 String Program Outputs
 
-Program3_c7 Truncate string output link=>[Program3_c7 Truncate string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_c7.png)
+| Program Description        | Output Link |
+|----------------------------|-------------|
+| ✅ String Program 1         | 🔗 [string program_1 output link](https://github.com/poojaK853/JavaPrograms/blob/main/Stringoperations/p3_a1.png) |
+| ✅ String Program 2         | 🔗 [string program_2 output link](https://github.com/poojaK853/JavaPrograms/blob/main/Stringoperations/p3_a2.png) |
+| ✅ String Program 3         | 🔗 [string program_3 output link](https://github.com/poojaK853/JavaPrograms/blob/main/Stringoperations/p3_a3.png) |
+| ✅ String Program 4         | 🔗 [string program_4 output link](https://github.com/poojaK853/JavaPrograms/blob/main/Stringoperations/p3_a4.png) |
+| ✅ String Program 5         | 🔗 [string program_5 output link](https://github.com/poojaK853/JavaPrograms/blob/main/Stringoperations/p3_a5.png) |
+| ✅ String Program 6         | 🔗 [string program_6 output link](https://github.com/poojaK853/JavaPrograms/blob/main/Stringoperations/p3_b1.png) |
+| ✅ String Program 7         | 🔗 [string program_7 output link](https://github.com/poojaK853/JavaPrograms/blob/main/Stringoperations/p3_b2.png) |
+| ✅ String Program 8         | 🔗 [string program_8 output link](https://github.com/poojaK853/JavaPrograms/blob/main/Stringoperations/p3_b3.png) |
+| ✅ String Program 9         | 🔗 [string program_9 output link](https://github.com/poojaK853/JavaPrograms/blob/main/Stringoperations/p3_b4.png) |
+| ✅ String Program 10        | 🔗 [string program_10 output link](https://github.com/poojaK853/JavaPrograms/blob/main/Stringoperations/p3_b5.png) |
 
-Program3_c8  Check if numeric/string output link=>[Program3_c8 Check if numeric/string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_c8.png)
+---
 
-Program3_c9 random string output link=>[Program3_c9 random string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_c9.png)
+💡 **Note:** These programs demonstrate fundamental string handling operations in Java using both standard and advanced techniques.
 
-Program3_c10  Count words in a string output link=>[Program3_c10  Count words in a string output link](https://github.com/poojaK853/JavaPrograms/blob/main/p3_c10.png)
+
 
 Program4_a Swing Program using Jframe and Jlabel output link=>[Program4_a Swing Program using Jframe and Jlabel output link](https://github.com/poojaK853/JavaPrograms/blob/main/p4_a.png)
 
