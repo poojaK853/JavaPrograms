@@ -119,13 +119,25 @@ This section contains Java Swing programs demonstrating GUI components like butt
 💡 **Note:** These GUI programs demonstrate event handling and real-time UI updates using Java Swing.
 
 
-Program5_a Swing Program output link=>[Program5_a Swing Program output link](https://github.com/poojaK853/JavaPrograms/blob/main/p5_a.png)
+# 📌 Program 5: Swing Programs
 
-Program5_b Swing Program output link=>[Program5_b Swing Program output link](https://github.com/poojaK853/JavaPrograms/blob/main/p5_b.png)
+This section contains additional Java Swing programs demonstrating advanced GUI components such as JList, JTabbedPane, and dynamic UI updates.
 
-Program5_c Swing Program output link=>[Program5_c Swing Program output link](https://github.com/poojaK853/JavaPrograms/blob/main/p5_c.png)
+---
 
-Program5_d Swing Program output link=>[Program5_d Swing Program output link](https://github.com/poojaK853/JavaPrograms/blob/main/p5_d.png)
+## 🔹 Program Outputs
+
+| Program Description         | Output Link |
+|-----------------------------|-------------|
+| ✅ JList Program             | 🔗 [Jlist Program output link](https://github.com/poojaK853/JavaPrograms/blob/main/Swing%20programs/p5_a.png) |
+| ✅ JTabbedPane Program       | 🔗 [tabbedepan Program output link](https://github.com/poojaK853/JavaPrograms/blob/main/Swing%20programs/p5_b.png) |
+| ✅ Add Countries Program     | 🔗 [addcountries Program output link](https://github.com/poojaK853/JavaPrograms/blob/main/Swing%20programs/p5_c.png) |
+| ✅ JTabbedPane with Colors   | 🔗 [tabbedepancolor Program output link](https://github.com/poojaK853/JavaPrograms/blob/main/Swing%20programs/p5_d.png) |
+
+---
+
+💡 **Note:** These programs further explore Swing components, event handling, and customization of GUI elements.
+
 
 Program6_a servlet program to find the factorial of a number output link=>[Program6_a servlet program to find the factorial of a number output link](https://github.com/poojaK853/JavaPrograms/blob/main/p6_a.jpg)
 
