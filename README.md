@@ -158,9 +158,22 @@ This section contains Java Servlet programs demonstrating server-side processing
 💡 **Note:** These programs illustrate core servlet functionalities such as input processing, session management, and conditional logic.
 
 
-Program7_a Session Management using JSP program output link=>[Program7_a Session Management using JSP program output link](https://github.com/poojaK853/JavaPrograms/blob/main/JSP%20programs/JSPprogram_1/p7_a..jpg)
+# 📌 Program 7: JSP Programs
 
-Program7_b Cookie Management program using JSP program output link=>[Program7_b Cookie Management program using JSP program output link](https://github.com/poojaK853/JavaPrograms/blob/main/JSP%20programs/JSPprogram_2/p7_b.jpg)
+This section contains JavaServer Pages (JSP) programs demonstrating dynamic web page generation and server-side scripting.
+
+---
+
+## 🔹 Program Outputs
+
+| Program Description     | Output Link |
+|-------------------------|-------------|
+| ✅ JSP Program 1        | 🔗 [JSP program_1 output link](https://github.com/poojaK853/JavaPrograms/blob/main/JSP%20programs/JSPprogram_1/p7_a..jpg) |
+| ✅ JSP Program 2        | 🔗 [JSP program_2 output link](https://github.com/poojaK853/JavaPrograms/blob/main/JSP%20programs/JSPprogram_2/p7_b.jpg) |
+
+---
+
+💡 **Note:** These JSP programs showcase basic web application features using Java server-side scripting.
 
 Program8_a JSP program output link=>[Program8_a JSP program output link](https://github.com/poojaK853/JavaPrograms/blob/main/p8_a.jpg)
 
