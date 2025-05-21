@@ -45,7 +45,7 @@ This section showcases Java programs that demonstrate the use of the `LinkedList
 
 
 
-# 📌 Program 2: String Operations
+# 📌 Program 2: String programs
 
 This section contains Java programs that demonstrate various **String operations**, including manipulation using `String`, `StringBuffer`, and `StringBuilder` classes.
 
