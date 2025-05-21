@@ -48,4 +48,6 @@ Access http://localhost:8080/your_app_name/index.html.
 
 Add new coffee and click “View All Coffees” to see the updated table.
 
+OUTPUT LINKS:-
 
+coffee insert output link=>[coffee insert output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20program1/coffeeinsert/p8_a.png)
