@@ -20,3 +20,24 @@ This project allows users to insert employee records into a MySQL database using
        Emp_Name VARCHAR(50),
        BasicSalary DOUBLE
    );
+Clone or Copy the Project
+
+Place MySQL JDBC Driver
+
+Download mysql-connector-java.jar
+
+Add it to your project’s lib folder or build path
+
+Update DB Credentials
+
+In DBConnection.java, update:
+
+DriverManager.getConnection("jdbc:mysql://localhost:3306/Employee", "root", "your_password");
+
+Deploy to Tomcat
+
+Copy the project folder to Tomcat/webapps/
+
+Start the Tomcat server
+
+Run the App
