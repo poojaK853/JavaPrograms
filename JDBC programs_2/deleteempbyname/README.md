@@ -47,9 +47,4 @@ Open browser and go to:http://localhost:8080/YourProjectName/
 
 OUTPUTLINKS:-
 
-
-
-
-reportemployee output link=>[reportemployee output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20programs_2/p9_c.png)
-
 deleteempbyname output link=>[deleteempbyname output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20programs_2/p9_d.png)
