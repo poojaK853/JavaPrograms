@@ -195,11 +195,25 @@ This section contains Java programs demonstrating database connectivity and oper
 💡 **Note:** These programs illustrate CRUD operations using JDBC to interact with relational databases.
 
 
-Program9_c JDBC project using MySQL to append and Generate
-the report output link=>[Program9_c JDBC project using MySQL to append and Generate
-the report output link](https://github.com/poojaK853/JavaPrograms/blob/main/p9_c.jpg)
+# 📌 Program 9: JDBC Programs - Part 2
 
-Program9_d JDBC project using MySQL to delete the records output link=>[Program9_d JDBC project using MySQL to delete the records output link](https://github.com/poojaK853/JavaPrograms/blob/main/p9_d.png)
+This section contains additional Java JDBC programs demonstrating deletion and reporting operations on database records.
+
+---
+
+## 🔹 Program Outputs
+
+| Program Description         | Output Link |
+|-----------------------------|-------------|
+| ✅ Delete Coffee Record      | 🔗 [deletecoffee output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20programs_2/p9_a.png) |
+| ✅ Coffee Name Deletion      | 🔗 [coffeenameD output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20programs_2/p9_b.png) |
+| ✅ Employee Report           | 🔗 [reportemployee output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20programs_2/p9_c.png) |
+| ✅ Delete Employee by Name   | 🔗 [deleteempbyname output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20programs_2/p9_d.png) |
+
+---
+
+💡 **Note:** These programs focus on deleting records and generating reports from the database using JDBC.
+
 
 
 
