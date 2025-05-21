@@ -4,4 +4,4 @@ coffeeupdate output link=>[coffeeupdate output link](https://github.com/poojaK85
 
 employeereport output link=>[employeereport output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20program1/employeereport/p8_c.png)
 
-Program8_d JDBC project using JDBC to update output link=>[Program8_d JDBC project using JDBC to update output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20program1/coffeeinsert/p8_d.png)
+updateemployee output link=>[updateemployee output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20program1/updateemployee%20program/p8_d.png)
