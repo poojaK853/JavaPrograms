@@ -175,13 +175,25 @@ This section contains JavaServer Pages (JSP) programs demonstrating dynamic web 
 
 💡 **Note:** These JSP programs showcase basic web application features using Java server-side scripting.
 
-Program8_a JSP program output link=>[Program8_a JSP program output link](https://github.com/poojaK853/JavaPrograms/blob/main/p8_a.jpg)
+# 📌 Program 9: JDBC Programs
 
-Program8_b JSP program output link=>[Program8_b JSP program output link](https://github.com/poojaK853/JavaPrograms/blob/main/p8_b.jpg)
+This section contains Java programs demonstrating database connectivity and operations using JDBC, including inserting, updating, and generating reports.
 
-Program8_c JDBC project using JSP program to Generate the report output link=>[Program8_c JDBC project using JSP program to Generate the report output link](https://github.com/poojaK853/JavaPrograms/blob/main/p8_c.png)
+---
 
-Program8_d JDBC project using JDBC to update output link=>[Program8_d JDBC project using JDBC to update output link](https://github.com/poojaK853/JavaPrograms/blob/main/p8_d.jpg)
+## 🔹 Program Outputs
+
+| Program Description         | Output Link |
+|-----------------------------|-------------|
+| ✅ Coffee Insert             | 🔗 [coffee insert output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20program1/coffeeinsert/p8_a.png) |
+| ✅ Coffee Update             | 🔗 [coffeeupdate output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20program1/coffeeupdate/p8_b.png) |
+| ✅ Employee Report           | 🔗 [employeereport output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20program1/employeereport/p8_c.png) |
+| ✅ Update Employee           | 🔗 [updateemployee output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20program1/updateemployee%20program/p8_d.png) |
+
+---
+
+💡 **Note:** These programs illustrate CRUD operations using JDBC to interact with relational databases.
+
 
 Program9_c JDBC project using MySQL to append and Generate
 the report output link=>[Program9_c JDBC project using MySQL to append and Generate
