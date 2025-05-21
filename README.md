@@ -24,17 +24,26 @@ This section contains multiple Java programs demonstrating the usage and functio
 
 💡 **Note:** Click on each output link to view the result of the respective program.
 
+This section showcases Java programs that demonstrate the use of the `LinkedList` class, including insertion, deletion, iteration, and other list operations.
+
+---
+
+## 🔹 LinkedList Examples
+
+| Program Description       | Output Link |
+|---------------------------|-------------|
+| ✅ LinkedList Example 1    | 🔗 [linkedlist_1 output link](https://github.com/poojaK853/JavaPrograms/blob/main/Linkedlist/p1_b1.png) |
+| ✅ LinkedList Example 2    | 🔗 [linkedlist_2 output link](https://github.com/poojaK853/JavaPrograms/blob/main/Linkedlist/p1_b2.png) |
+| ✅ LinkedList Example 3    | 🔗 [linkedlist_3 output link](https://github.com/poojaK853/JavaPrograms/blob/main/Linkedlist/p1_b3.png) |
+| ✅ LinkedList Example 4    | 🔗 [linkedlist_4 output link](https://github.com/poojaK853/JavaPrograms/blob/main/Linkedlist/p1_b4.png) |
+| ✅ LinkedList Example 5    | 🔗 [linkedlist_5 output link](https://github.com/poojaK853/JavaPrograms/blob/main/Linkedlist/p1_b5.png) |
+
+---
+
+💡 **Note:** Each example demonstrates different operations and methods available in the `LinkedList` class in Java.
 
 
-Program1_c1 Linkedlist output link=>[Program1_c1 Linkedlist  output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_c1.png)
 
-Program1_c2 Linkedlist output link=>[Program1_c2 Linkedlist  output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_c2.png)
-
-Program1_c3 Linkedlist output link=>[Program1_c3 Linkedlist  output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_c3.png)
-
-Program1_c4 Linkedlist output link=>[Program1_c4 Linkedlist  output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_c4.jpg)
-
-Program1_c5 Linkedlist output link=>[Program1_c5 Linkedlist  output link](https://github.com/poojaK853/JavaPrograms/blob/main/p1_c5.png)
 
 # 📌 Program 2: String Operations
 
