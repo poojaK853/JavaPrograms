@@ -46,3 +46,8 @@ CREATE TABLE coffee (
 http://localhost:8080/your_project/deleteForm.html
 
 🧪 Enter a coffee ID to delete and view updated records.
+
+OUTPUT LINK:-
+
+deletecoffee output link=>[deletecoffee output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20programs_2/p9_a.png)
+
