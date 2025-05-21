@@ -39,4 +39,7 @@ Access in browser: http://localhost:8080/your_app_name/updateForm.html
 Use the form to update a coffee product by its ID.
 
 Click “View All Coffees” to verify the update.
+
 OUTPUT LINK:-
+
+coffeeupdate output link=>[coffeeupdate output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20program1/coffeeupdate/p8_b.png)
