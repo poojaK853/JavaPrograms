@@ -1,0 +1,27 @@
+<!--Q1. Read all the existing records from the table coffee which is from the database test and insert a
+new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and
+JSP to get the fields and display the results respectively-->
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add Coffee</title>
+</head>
+<body>
+    <h2>Add a New Coffee</h2>
+    <form action="insertCoffee.jsp" method="post">
+        <label for="id">ID:</label>
+        <input type="number" name="id" required><br><br>
+
+        <label for="coffee_name">Coffee Name:</label>
+        <input type="text" name="coffee_name" required><br><br>
+
+        <label for="price">Price:</label>
+        <input type="text" name="price" required><br><br>
+
+        <input type="submit" value="Add Coffee">
+    </form>
+</body>
+</html>
