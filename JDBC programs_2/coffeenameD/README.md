@@ -49,5 +49,5 @@ http://localhost:8080/your_project/deleteForm.html
 
 OUTPUT LINK:-
 
-deletecoffee output link=>[deletecoffee output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20programs_2/p9_a.png)
+coffeenameD output link=>[coffeenameD output link](https://github.com/poojaK853/JavaPrograms/blob/main/JDBC%20programs_2/p9_b.png)
 
