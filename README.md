@@ -175,7 +175,7 @@ This section contains JavaServer Pages (JSP) programs demonstrating dynamic web 
 
 💡 **Note:** These JSP programs showcase basic web application features using Java server-side scripting.
 
-# 📌 Program 9: JDBC Programs
+# 📌 Program 8: JDBC Programs
 
 This section contains Java programs demonstrating database connectivity and operations using JDBC, including inserting, updating, and generating reports.
 
